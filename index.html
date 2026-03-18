@@ -20,13 +20,26 @@
         }
 
         .bnt-personalizado:hover {
-            background-color: #45a049;
+            background-color: #000000;
+            
+        }
+
+        button{
+            text-align: center;
         }
     </style>
 </head>
 <body>
 
-    <button class="bnt-personalizado">Meu Botão Estilizado</button>
+    <button class="bnt-personalizado" id="Bnt" >Meu Botão </button>
+    
+ <script>
+    const botao = document.getElementById("Bnt");
+    
+    addEventListener("click", function(){
+        alert("Bnt foi clicado com exedo !")
+    });
+ </script>
 
 </body>
 </html>
