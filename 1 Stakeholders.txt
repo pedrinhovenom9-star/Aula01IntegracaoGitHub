@@ -1,0 +1,17 @@
+1* Stakeholders:
+   dono/Gerente: Sabe as regras do negócio, problemas e objetivos do sistemas;
+   Atendentes: Sabem como os pedidos são feitos e onde acontecem os erros;
+   Cozinheiros: Sabem como recebem e preparam os pedidos
+   Entregadores: Sabem sobre endereços, rotas e atrasos;
+   Clientes: Sabem das dificuldades ao fazer pedidos e o que gostariam no sistema;
+
+
+2* Técnicas de coleta:
+   Entrevistas: Para entender melhor os problemas e necessidades de cada;
+   Observação: Para ver na pratica como os pedidos são feitos por telefones e onde ocorrem erros;
+   
+
+3* Perguntas abertas ao atendimentos:
+   Como você realiza um pedido desde o inicio até o final?
+   Quais são os erros mais comuns que acontecem nos pedidos?
+   Como você acha que um sistema online ajudaria no dia - dia?
